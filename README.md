@@ -2,6 +2,7 @@
 
 <p align="center">
 ![](https://github.com/vissih/chipi-chipi-chapa-chapa/blob/main/chipi-chipi-chapa-chapa.gif)
+  <img src="https://github.com/vissih/chipi-chipi-chapa-chapa/blob/main/chipi-chipi-chapa-chapa.gif" />
 </p>
 
 "Chipi chipi chapa chapa dubi dubi daba daba magic pony dubi dubi boom boom boom boom." 😺
