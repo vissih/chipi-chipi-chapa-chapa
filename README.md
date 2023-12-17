@@ -1,7 +1,7 @@
 # hiii 👋
-
+<center>
 ![chipi-chipi-chapa-chapa](https://github.com/vissih/chipi-chipi-chapa-chapa/assets/91546389/2a34f4aa-21f6-4ecd-a067-23250cd7fb24)
-
+</center>
 
 "Chipi chipi chapa chapa dubi dubi daba daba magic pony dubi dubi boom boom boom boom." 😺
 
